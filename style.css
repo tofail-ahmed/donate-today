@@ -21,7 +21,8 @@ body {
       background-position: center;
       height: 500px;
       background-color: #cccccc;
-     display: ;
+      opacity: .7;
+     
 }
 .header-1{
       font-size: 50px;
@@ -35,6 +36,7 @@ body {
       border-radius: 10px;
       padding-top: 5px;
       padding-bottom: 5px;
+      cursor: pointer;
 }
 .flexible-container{
       display: flex;
@@ -97,6 +99,7 @@ body {
       margin-left: 30px;
       margin-right: 30px;
       text-align: left;
+      margin-bottom: 50px;
     
 
 }
@@ -113,10 +116,77 @@ body {
 .items:hover{
       color: rgb(253, 254, 255);
       background-color: rgb(77, 75, 75);}
- img{
+ .item-img{
       height:50px;
       width: 50px;
       margin-top: 30px;
       border-radius: 50%;
- }     
+      margin-bottom: 50px;
+ } 
+#their-life-ur-dntn{
+      text-align: center;
+      width: 50%;
+      margin-top:170px ;
+      font-weight: 900;
+      padding-left: 50px;
+      padding-right: 50px;
+}
+.flexible{
+      display: flex;
+      margin: 30px;
+      margin-bottom: 60px;
+}
+.donation-img{
+      height:600px;
+      width:90%;
+      margin-left: 50px;
+      border-radius: 35px;
+      opacity: .8;
+
+}
+#email{
+      border:transparent;
+      border-bottom: rgb(194, 218, 228) 3px solid;
+}
+#subscribe{
+      text-align: center;
+}
+#sub-button{
+      box-shadow: 5px 5px 10px rgba(189, 115, 127, 0.747);
+      margin-left:30%;
+      margin-right: 30%;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      border-radius: 30px;
+      background-color: rgba(235, 148, 192, 0.123);
+}
+#sub-button:hover{
+     
+      background-color: rgba(250, 233, 158, 0.356);
+}
+footer{
+      text-align: center;
+     
+      background-color: black;
+      color: bisque;
+}
+footer:hover{
+      color: rgb(24, 23, 23);
+      background-color: bisque;
+}
+#footer-text{
+      font-size: 50px;
+      padding-top: 50px;
+      font-weight: 900;
+}
+#great-do{
+      font-size: 20px;
+
+}
+#preparation{
+      font-size: 10px;
+      padding-bottom: 10px;
+}
+
+
       
