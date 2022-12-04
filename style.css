@@ -1,0 +1,74 @@
+body {
+      font-family: 'Maven Pro', sans-serif;
+      font-family: 'Poppins', sans-serif;
+      font-family: 'Roboto', sans-serif;
+}
+#div-1{
+      text-align: center;
+      padding-left: 30%;
+      padding-right: 30%;
+      padding-top: 100px;
+      color: rgb(231, 237, 238);
+      font-weight: 900;
+      text-shadow: 5px 5px 15px rgb(0, 0, 0);
+      
+      
+}
+#section-1{
+      background-image:linear-gradient(rgba(105, 100, 100, 0.342), rgba(212, 203, 203, 0.233)), url(donation3.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 500px;
+      background-color: #cccccc;
+     display: ;
+}
+.header-1{
+      font-size: 50px;
+}
+.button-link{
+      background-image: linear-gradient(rgb(255, 208, 0), rgb(128, 0, 0));
+      text-decoration: none;
+      padding-left: 10px;
+      padding-right: 10px;
+      color: blanchedalmond;
+      border-radius: 10px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+}
+.flexible-container{
+      display: flex;
+      margin-left: 10%;
+      
+      padding-left: 50px;
+}
+.amount{
+      padding: 50px;
+      background-color: lightgray ; 
+      margin-left: 5px;
+      font-size: larger;
+      font-weight: 600;
+      color: rgb(121, 119, 119) ;
+      
+}
+.ten-th{
+      padding: 50px;
+      background-color: rgb(183, 196, 233) ; 
+      margin-left: 5px;
+      border: 3px black solid;
+      
+}
+#donate-today{
+      font-weight: 800;
+      text-align: center;
+      margin-top: 50px;
+      margin-left: 30%;
+      margin-right: 30%;
+}#input{
+     margin-left: 30%;
+     font-size: 20px;
+     font-weight: 700;
+}
+#donate-now{
+     margin-left: 46%;
+}
